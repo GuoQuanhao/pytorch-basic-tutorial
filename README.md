@@ -1,6 +1,6 @@
 # PyTorch-basic-tutorial
 **basic tutorial for pytorch1.x**
-![1](https://img-blog.csdnimg.cn/20210114171048752.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NTY3NDI3,size_16,color_FFFFFF,t_70#pic_center =410x82)
+![1](https://img-blog.csdnimg.cn/20210114171048752.jpg)
 
 ## How to read these tutorials
 This tutorial is divided into 12 parts, from linear regression to logistic regression. The framework used includes PyTorch 1.x version Each part is described in detail on my corresponding [CSDN blog](https://blog.csdn.net/qq_39567427)
